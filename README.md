@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm SJ!
 
-<!--
-**seungjunone/seungjunone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a data science manager at 2U. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I lead the development and maintenance of a robust data ecosystem at 2U, facilitating seamless collaboration among data scientists, analysts, engineers, and product managers.
+
+🌈 I operate in white space in the organization chart - connecting disparate teams and individuals to drive alignment and achieve shared goals.
+
+💃 I love diving into all kinds of data – from our enterprise systems to the unstructured event logs from different platforms – sprucing up existing datasets and creating fresh ones to power our ML models and unlock valuable insights.
+
+🔭 I'm always learning new things about data, even in my free time! I'm currently diving deep into my own fitness data from Peloton, Whoop, and Concept2, exploring different ways to combine and analyze it. 
+
+| Project | Description |
+| --- | --- |
+| Peloton Explorer | asda |
+| Mirror Mirror | asda |
+
+
+
+
+
